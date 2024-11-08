@@ -1,0 +1,1 @@
+These are set of mini-projects I undertook as a part of course BCSE209P - Machine Learning. Easy to understand, non complex codes to grasp the basic concepts and understand the implementation of ML models.
